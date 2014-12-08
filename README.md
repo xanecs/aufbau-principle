@@ -6,7 +6,7 @@ This method is not perfect as there are 20 exceptions (transitive metals).
 
 ## This program
 
-To use this program you need node.js. No additional dependencies.
+To use this program you need node.js, no additional dependencies (or packages) are required.
 
 Call it with the atomic number as the only argument.
 
